@@ -10,7 +10,11 @@ import com.googlecode.javacv.OpenCVFrameGrabber;
 import com.googlecode.javacv.cpp.opencv_core.IplImage;
 
 public class FrameDrawer {
-
+   /**
+    * Sample code for starters, testing with a webcam
+    * 
+    * 
+    * /
    private static boolean isRunning = true;
 
    public void drawFrames() {
