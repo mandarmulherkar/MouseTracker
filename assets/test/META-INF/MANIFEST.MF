@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: . test_lib/log4j-1.2.16.jar test_lib/javacv-linux-x86.jar 
+ test_lib/javacv-linux-x86_64.jar test_lib/javacv-windows-x86_64.jar t
+ est_lib/javacv-windows-x86.jar test_lib/javacpp.jar test_lib/javacv-m
+ acosx-x86_64.jar test_lib/javacv.jar
+Main-Class: com.mandar.opencv.base.CameraCapture
+
